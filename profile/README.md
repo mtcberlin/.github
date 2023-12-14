@@ -1,6 +1,6 @@
-# MTC Berlin
+# moving targets consulting berlin
 
-Welcome to the MTC Berlin GitHub repository, focusing on hybrid team development for global IT projects. Our services include:
+Welcome to the mtc.berlin GitHub repository, focusing on hybrid team development for global IT projects. Our services include:
 
 - **Contract Development**: Combining onshore and offshore IT specialists.
 - **Managed Projects**: Efficient management of complex contract development.
