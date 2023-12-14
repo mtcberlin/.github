@@ -1,4 +1,4 @@
-# MTC Berlin - README
+# MTC Berlin
 
 Welcome to the MTC Berlin GitHub repository, focusing on hybrid team development for global IT projects. Our services include:
 
