@@ -8,4 +8,4 @@ Welcome to the mtc.berlin GitHub repository, focusing on hybrid team development
 
 We emphasize agile methodologies and effective communication. Discover our solutions in accessibility and AI consulting to enhance digital interface inclusivity and efficiency.
 
-More information: [mtc.erlin](https://www.mtc.berlin/en).
+More information: [mtc.berlin](https://www.mtc.berlin/en).
